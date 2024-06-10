@@ -2,4 +2,35 @@
 
 The first open-source collection of building blocks for creating interactive quizzes that can be used to build engaging and productive learning experiences.
 
-TODO: Write a concise README.
+## TODO
+
+- [ ] Write a comprehensive README
+- [ ] Releases workflow
+- [ ] Blocks
+  - [ ] Multiple Choice Questions
+  - [ ] True/False Questions
+  - [ ] Matching Questions
+  - [ ] Fill-in-the-blanks Questions
+  - [ ] Short answer questions
+  - [ ] Essay Questions
+  - [ ] Ranking Questions
+  - [ ] Ordering Questions
+  - [ ] Drag-and-Drop Questions (Items that the test-taker drags from one area and drops into the correct location (e.g., labeling a diagram, categorizing items))
+  - [ ] Hotspot Questions (An image or diagram where the test-taker clicks on a specific area to answer a question (e.g., identifying parts of a machine, locating a geographical feature))
+  - [ ] Likert Questions (Statements followed by a scale (e.g., strongly agree, agree, neutral, disagree, strongly disagree) on which the test-taker indicates their level of agreement)
+
+## Quiz types
+
+| Question Type           | Description                                                                                     | Objective                                                                                                                               |
+| ----------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Multiple Choice (MCQ)   | Question stem with several options (one correct answer).                                       | Assesses broad knowledge from recall to application and analysis. Easy to grade and analyze.                                         |
+| True/False               | Statement marked as true or false.                                                              | Tests basic comprehension and recall.                                                                                                |
+| Matching                 | Two columns of items to be paired correctly.                                                      | Assesses ability to connect related concepts, demonstrating deeper understanding.                                                       |
+| Fill-in-the-Blanks        | Sentences or paragraphs with missing words to be filled in.                                       | Tests recall and understanding of specific details, often requiring application of knowledge.                                          |
+| Short Answer            | Requires a brief written response.                                                              | Assesses comprehension and ability to articulate knowledge concisely.                                                              |
+| Essay                    | Open-ended question requiring a longer written response, analyzing/synthesizing/evaluating info. | Assesses deep understanding, critical thinking, and ability to construct a coherent argument.                                       |
+| Ranking/Ordering        | Items to be arranged in the correct order.                                                      | Assesses understanding of sequences, cause-and-effect, and prioritization.                                                        |
+| Drag-and-Drop            | Items dragged and dropped into correct locations.                                               | Assesses relationships, spatial reasoning, and visual application of knowledge.                                                    |
+| Hotspot                  | Click on specific area of an image/diagram to answer.                                            | Tests spatial awareness, visual recognition, and practical application of knowledge.                                                  |
+| Likert Scale            | Statements followed by a scale indicating level of agreement.                                   | Assesses opinions, attitudes, and perceptions, providing qualitative data.                                                           |
+ 

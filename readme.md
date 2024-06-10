@@ -2,7 +2,13 @@
 
 The first open-source collection of building blocks for creating interactive quizzes that can be used to build engaging and productive learning experiences.
 
-## TODO
+## 🎯 Goals of this project
+
+1. Easy-to-use set of quiz blocks (convenient API)
+2. 100% customizable look & feel
+3. Framework agnostic
+
+## 📃 TODO
 
 - [ ] Write a comprehensive README
 - [ ] Releases workflow
@@ -19,7 +25,7 @@ The first open-source collection of building blocks for creating interactive qui
   - [ ] Hotspot Questions (An image or diagram where the test-taker clicks on a specific area to answer a question (e.g., identifying parts of a machine, locating a geographical feature))
   - [ ] Likert Questions (Statements followed by a scale (e.g., strongly agree, agree, neutral, disagree, strongly disagree) on which the test-taker indicates their level of agreement)
 
-## Quiz types
+## 🌀 Quiz types
 
 | Question Type           | Description                                                                                     | Objective                                                                                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
